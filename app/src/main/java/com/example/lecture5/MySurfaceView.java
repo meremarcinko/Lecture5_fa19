@@ -18,6 +18,7 @@ public class MySurfaceView extends SurfaceView
         setWillNotDraw(false);
     }
 
+    //hi mere
     public void onDraw(Canvas canvas)
     {
         Paint paint = new Paint();
